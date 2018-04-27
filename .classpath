@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Uebung1/|Uebung2/|Uebung3/|Uebung4/|Uebung5/|Uebung6/|Uebung10/|Uebung11/|Uebung12/|Uebung7/|Uebung8/|Uebung9/|UebungBonus/|UebungBonus/U2I2_xml_html/|Uebung01/|Uebung02/|Uebung03/|Uebung04/|Uebung05/|Uebung06/|Uebung07/|Uebung08/|Uebung09/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
